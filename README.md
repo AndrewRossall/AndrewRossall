@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AndrewRossall
+- 👀 I'm a physicist with 10 years postdoc experience with a passion for code and analysis.
+- 🌱 I’m currently learning about machine learning (kinda meta).
+- 💞️ I’m looking to move away from academia so I'm working to improve my computational skillset (and unlearn a few bad habits).
